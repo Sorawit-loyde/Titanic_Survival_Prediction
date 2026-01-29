@@ -1,5 +1,7 @@
 # Titanic Survival Prediction Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1whrfeHuCwcjthmeqQDg15RjRNJEdOs?usp=sharing)
+
 This project provides an educational guide to predicting passenger survival on the Titanic using the classic Titanic dataset. It features a highly structured Jupyter Notebook that walks through the entire data science pipeline with detailed explanations.
 
 ## Table of Contents
