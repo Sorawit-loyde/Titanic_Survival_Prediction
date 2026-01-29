@@ -36,7 +36,10 @@ pip install kagglehub numpy pandas seaborn scikit-learn matplotlib
 - **Educational Annotations**: Every cell is explained in detail, making it perfect for learning data science fundamentals.
 
 ## Dataset
-This project uses the `yasserh/titanic-dataset` from Kaggle, loaded automatically via `kagglehub`. It includes features such as:
+This project uses the Titanic dataset hosted on Kaggle. It is loaded automatically via `kagglehub`.
+
+- **Source**: [Kaggle - Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data)
+- **Features**:
 - **Pclass**: Ticket class (1st, 2nd, 3rd)
 - **Sex**: Passenger gender
 - **Age**: Age in years
